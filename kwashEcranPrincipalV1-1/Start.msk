@@ -1,0 +1,10 @@
+<StandardScreen Guid="7fa6a5da-06d9-4454-8588-a065ee59cbd6" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="d54fc57b-c801-43fd-82ca-b4b663e41ae9" Name="Start" No="0" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
+  <Checksum Value="2261640375" />
+  <CImage Guid="5b379e30-d021-4311-a5e6-83ccf708a282" LockedPosition="0" ControlSet="d54fc57b-c801-43fd-82ca-b4b663e41ae9" Name="" Anchor="5" IsDynamic="0" GesturesEnabled="0" X_PropType="0" X_Value="10" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="70" Height_PropType="0" Height_Value="70">
+    <State Guid="78c98d02-a9a6-4010-8327-73fd0ea8323a" Name="Image" Version="[1.1.0]">
+      <ColorDecorator Guid="fe36c641-4d06-45ab-bd42-d608e45dcee9" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
+      <IconImageDecorator Guid="ae522c28-b872-4880-a9ab-29b49fb7edfb" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="cb773626-6556-45d0-abd1-08467b82f8de" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+    </State>
+  </CImage>
+  <ControlSet Guid="d54fc57b-c801-43fd-82ca-b4b663e41ae9" Name="ControlSet" />
+</StandardScreen>
