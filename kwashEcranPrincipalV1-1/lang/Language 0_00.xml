@@ -1,4 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <languageData Version="galileoNG">
-	<texts />
+	<texts>
+		<standard Guid="565bc557-866c-4fd0-a624-48b38c1d169b" textID="0"><![CDATA[Page principale]]></standard>
+		<standard Guid="7a5d2154-ae58-4210-aa34-bdcc5c585869" textID="1"><![CDATA[Paramètres]]></standard>
+		<standard Guid="faa4f3ad-da90-4906-b513-dffbab8f1259" textID="2"><![CDATA[Alarmes]]></standard>
+	</texts>
 </languageData>
