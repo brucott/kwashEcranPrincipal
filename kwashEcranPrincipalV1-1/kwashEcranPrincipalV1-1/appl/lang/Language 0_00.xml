@@ -12,6 +12,11 @@
 			<s ID="0"><![CDATA[Page principale]]></s>
 			<s ID="1"><![CDATA[Paramètres]]></s>
 			<s ID="2"><![CDATA[Alarmes]]></s>
+			<s ID="3"><![CDATA[Piste 1]]></s>
+			<s ID="4"><![CDATA[Piste 2]]></s>
+			<s ID="5"><![CDATA[Piste 3]]></s>
+			<s ID="6"><![CDATA[h]]></s>
+			<s ID="7"><![CDATA[Nb heures :]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>

@@ -1,0 +1,19 @@
+<Cache Guid="7ae7ac2b-175f-4db7-85a7-d343a3f75ffc">
+  <Checksum Value="203032110" />
+  <TimeStamps>
+    <F G="561100d7-339a-4510-95bf-1b945f2ad13d" T="2024-05-06 12:20:38" />
+    <F G="7fa6a5da-06d9-4454-8588-a065ee59cbd6" T="2024-05-06 12:20:38" />
+    <F G="266f9238-73ab-4281-9f8d-011f1e6fe55a" T="2024-05-06 12:20:38" />
+    <F G="346a85be-e345-4ddc-b927-55223035aadb" T="2024-05-06 12:20:38" />
+    <F G="0a16fc11-e422-492d-b641-8c88088f23b0" T="2024-05-06 12:20:38" />
+    <F G="8dafc81b-0ce8-4497-abd2-697b41abbf7d" T="2024-05-06 12:20:38" />
+    <F G="44942e71-fb3f-406b-8569-55c382ba7ac1" T="2024-05-06 12:20:38" />
+    <F G="0e7c4593-09fd-4f39-a2f2-1cf19265b157" T="2024-05-06 12:20:38" />
+  </TimeStamps>
+  <Formats>
+    <CacheFormat G="63b929cc-b4fd-4b6e-9ac6-2b1dcbf65d64" Value="0" />
+  </Formats>
+  <Conversions>
+    <CacheConversion G="63b929cc-b4fd-4b6e-9ac6-2b1dcbf65d64" Value="e490728b-7d2e-4a17-9797-1ccf53127a5f" />
+  </Conversions>
+</Cache>

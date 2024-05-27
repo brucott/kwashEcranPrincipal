@@ -5,5 +5,10 @@
 		<standard Guid="7a5d2154-ae58-4210-aa34-bdcc5c585869" textID="1"><![CDATA[Paramètres]]></standard>
 		<standard Guid="faa4f3ad-da90-4906-b513-dffbab8f1259" textID="2"><![CDATA[Alarmes]]></standard>
 		<standard Guid="84e1435a-48b6-4ddd-bd22-e5de2988976c" textID="3"><![CDATA[Piste 1]]></standard>
+		<standard Guid="25af4f9a-be15-42a2-9e4f-23dca1fff8d9" textID="4"><![CDATA[Piste 2]]></standard>
+		<standard Guid="c5af9c7d-c34e-49e6-8f88-edc10d255711" textID="5"><![CDATA[Piste 3]]></standard>
+		<standard Guid="d9e02782-229d-477b-a152-d5976d2bc8e7" textID="6"><![CDATA[h]]></standard>
+		<standard Guid="0e4be098-cbfb-4f3d-8b19-6f0c40cd5b62" textID="7"><![CDATA[Nb heures :]]></standard>
+		<standard Guid="85dab916-5cc7-4291-8c7d-9867ddcd3aa1" textID="8"><![CDATA[Piste]]></standard>
 	</texts>
 </languageData>

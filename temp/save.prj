@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<ProjectData Guid="7e5f75cc-3493-4d90-a50a-179ad965480e" Version="[10.6.0]" GalileoVersion="Galileo (10.6.8.46693)" ProjectType="0">
-  <Checksum Value="1723017530" />
+<ProjectData Guid="44942e71-fb3f-406b-8569-55c382ba7ac1" Version="[10.6.0]" GalileoVersion="Galileo (10.6.8.46693)" ProjectType="0">
+  <Checksum Value="3388335353" />
   <VisualizationManager Guid="46e00603-913f-4ca2-b4b1-8fd884b335af" ActiveVisu="3065087d-7ca2-430f-bebe-6164f3619165" LocalVisu="4dcced77-ca9c-4ec9-a602-5dbaf36ab771">
     <VisualizationGroup Guid="4dcced77-ca9c-4ec9-a602-5dbaf36ab771" Name="Local" Width="0" Height="0" DefaultBackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
       <Visualization Guid="3065087d-7ca2-430f-bebe-6164f3619165" Name="Local" URL="" Enabled="1" Pwd="" StartScreen="7fa6a5da-06d9-4454-8588-a065ee59cbd6" AutoDisconnectTimeInSeconds="0">
@@ -58,10 +58,18 @@
     <StandardText Guid="7a5d2154-ae58-4210-aa34-bdcc5c585869" TextId="1" />
     <StandardText Guid="faa4f3ad-da90-4906-b513-dffbab8f1259" TextId="2" />
     <StandardText Guid="84e1435a-48b6-4ddd-bd22-e5de2988976c" TextId="3" />
+    <StandardText Guid="25af4f9a-be15-42a2-9e4f-23dca1fff8d9" TextId="4" />
+    <StandardText Guid="c5af9c7d-c34e-49e6-8f88-edc10d255711" TextId="5" />
+    <StandardText Guid="d9e02782-229d-477b-a152-d5976d2bc8e7" TextId="6" />
+    <StandardText Guid="0e4be098-cbfb-4f3d-8b19-6f0c40cd5b62" TextId="7" />
   </TextManager>
   <PictureManager Guid="7d5f2793-62dc-4cba-84f4-5ded491597a2">
     <VideoFolder Guid="c4214ce1-ec7e-4b6a-808e-bb680d576e69" Name="Project video" />
     <PictureFolder Guid="762c4f0f-218a-42d2-9184-9ff189f7cb4d" Name="Project images">
+      <PictureFolder Guid="ea6ae705-dd2a-4257-aaf9-304c77cc3a4b" Name="buttons">
+        <Picture Guid="bac3d192-d545-48ad-81f5-fadd233bad32" FileName="CircledButtonGreen.png" InsetH="0" InsetV="0" />
+        <Picture Guid="805e73b5-4d7f-4413-9bad-ed709caf2461" FileName="CircledButtonRed.png" InsetH="0" InsetV="0" />
+      </PictureFolder>
       <PictureFolder Guid="ad735f93-9350-4e74-a0f7-2299cfb73970" Name="Dark">
         <Picture Guid="87ec199a-0cb7-408b-8b0a-85dd5838f77a" FileName="Background_Dark.png" InsetH="0" InsetV="0" />
         <Picture Guid="c94751af-3f42-4fc1-91a2-d4ef7d55e10f" FileName="Button_Dark.png" InsetH="3" InsetV="3" />
@@ -71,13 +79,14 @@
         <Picture Guid="ea15e3b7-b051-49c1-8ef6-4befc9ae02b1" FileName="Background_Dark1024_600.png" InsetH="0" InsetV="0" />
       </PictureFolder>
       <PictureFolder Guid="d34a0fae-daf2-421e-9316-c776accd4e31" Name="icones">
+        <SvgPicture Guid="d6422d2f-de49-4617-8cda-a42f87db3b12" FileName="ShutDown.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="66c3466f-e4ee-41f4-9014-679f12331a17" FileName="Warning.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="38f4c9bb-e060-46aa-8f27-1aef495d4282" FileName="WrenchType1.svg" InsetH="0" InsetV="0" />
       </PictureFolder>
       <Picture Guid="cb773626-6556-45d0-abd1-08467b82f8de" FileName="_418883099_896020212311035_6860571107236007511_n.png" InsetH="0" InsetV="0" />
     </PictureFolder>
   </PictureManager>
-  <ProjectSettings Guid="69ef9d46-3a6a-4392-8351-26475742eb7e" ErrorConfirmationMode="1" ErrorHistorySize="512" CloseHelpWindowOnInactiveError="0" MsgTypeInErrHistoryFile="0" ErrorWindowSortingCriteria="0" ActivateUserLogger="0" UserLoggerDirectory="" CreateNewLogFileDaily="0" MaxEntriesPerLogFile="1000" MaxNumberOfLogFiles="100" UserLoggerMinFreeSpace="10" LogErrorTags="0" TouchDelayTime="5" TouchDoubleClickTime="5" DisplayTouchErrorIndicator="0" SaveTouchErrorIndicator="0" DimOnScreensaver="1" GridSize="10" GridColor="[255 0 0 255]" ShowGrid="1" GridStyle="1" SnapToObjects="1" SnapToGrid="1" SnapGridSize="10" SaveControlsVisibilityState="0" SelectionStyle="1" GraphListOrderWay="0" GraphListOrderBy="0" OthersListOrderWay="0" OthersListOrderBy="0" UserMgmtListOrderWay="0" TransparentTouchColor="[255 0 255 0]" TransparencyLevelTouchColor="25" SysKeybResolution="[0 0]" SysKeyb="1" SysKeybFile="DarkGray" SysKeybButtonStyle="f4109c2f-135c-4128-8680-51a52465844b" SysKeybDisplayStyle="3982ad1a-9b1f-4a77-864f-80a93294d743" SysKeybWndBackColor="[255 169 169 169]" SysKeybHeaderBackColor="[255 135 206 250]" SysKeybFrameColor="[255 0 0 0]" ControlSize="8" StatusSize="8" DateTimeSize="4" ScreenChangeAnimationAllowed="1" PollingTagsInLoopScriptsAllowed="0" DelayedEntryScript="0" ScreenChangeDuration="650" DynamicPositionMode="1" DynamicSizeMode="1" WarnMissingTranslation="1" WarnObjTooSmall="1" WarnLoopScriptStatementCount="1" WarnEventScriptStatementCount="1" WarnErrorTagPlaceholder="0" WarnErrorTagParamPollingRate="1" WarnUsedSlaveTags="1" ErrorMissingImages="1" ErrorMissingTexts="1" ErrorLimitViolations="1" WarnScriptFuncOftenRecurring="1" WarnDisabledEvents="1" WarnStreamButtonInLocalWebVisu="1" CommunicationActive="1" CommUngracefulShutdown="0" CommunicateInSimulator="0" CommInSimUngracefulShutdown="0" ModifyRecipeInSimulator="0" GenerateIpkFile="1" GeneralDataDirectory="data\" RecentUsedColors="[255 192 192 192], [255 246 44 49], [255 255 255 255], [255 212 212 212], [255 0 0 0], [255 106 106 106], [255 0 0 0], [255 85 85 85], [255 148 148 148], [255 233 233 233]" RecentUsedIconLibColors="[255 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255]" TextRenderingAntiAliased="1" UseOpenGLonWin32="1" TextExpImpPath="" TextExpImpType="0">
+  <ProjectSettings Guid="69ef9d46-3a6a-4392-8351-26475742eb7e" ErrorConfirmationMode="1" ErrorHistorySize="512" CloseHelpWindowOnInactiveError="0" MsgTypeInErrHistoryFile="0" ErrorWindowSortingCriteria="0" ActivateUserLogger="0" UserLoggerDirectory="" CreateNewLogFileDaily="0" MaxEntriesPerLogFile="1000" MaxNumberOfLogFiles="100" UserLoggerMinFreeSpace="10" LogErrorTags="0" TouchDelayTime="5" TouchDoubleClickTime="5" DisplayTouchErrorIndicator="0" SaveTouchErrorIndicator="0" DimOnScreensaver="1" GridSize="10" GridColor="[255 0 0 255]" ShowGrid="1" GridStyle="1" SnapToObjects="1" SnapToGrid="1" SnapGridSize="10" SaveControlsVisibilityState="0" SelectionStyle="1" GraphListOrderWay="0" GraphListOrderBy="0" OthersListOrderWay="0" OthersListOrderBy="0" UserMgmtListOrderWay="0" TransparentTouchColor="[255 0 255 0]" TransparencyLevelTouchColor="25" SysKeybResolution="[0 0]" SysKeyb="1" SysKeybFile="DarkGray" SysKeybButtonStyle="f4109c2f-135c-4128-8680-51a52465844b" SysKeybDisplayStyle="3982ad1a-9b1f-4a77-864f-80a93294d743" SysKeybWndBackColor="[255 169 169 169]" SysKeybHeaderBackColor="[255 135 206 250]" SysKeybFrameColor="[255 0 0 0]" ControlSize="8" StatusSize="8" DateTimeSize="4" ScreenChangeAnimationAllowed="1" PollingTagsInLoopScriptsAllowed="0" DelayedEntryScript="0" ScreenChangeDuration="650" DynamicPositionMode="1" DynamicSizeMode="1" WarnMissingTranslation="1" WarnObjTooSmall="1" WarnLoopScriptStatementCount="1" WarnEventScriptStatementCount="1" WarnErrorTagPlaceholder="0" WarnErrorTagParamPollingRate="1" WarnUsedSlaveTags="1" ErrorMissingImages="1" ErrorMissingTexts="1" ErrorLimitViolations="1" WarnScriptFuncOftenRecurring="1" WarnDisabledEvents="1" WarnStreamButtonInLocalWebVisu="1" CommunicationActive="1" CommUngracefulShutdown="0" CommunicateInSimulator="0" CommInSimUngracefulShutdown="0" ModifyRecipeInSimulator="0" GenerateIpkFile="1" GeneralDataDirectory="data\" RecentUsedColors="[255 0 255 0], [255 0 0 0], [255 212 212 212], [255 192 192 192], [255 246 44 49], [255 255 255 255], [255 0 0 0], [255 106 106 106], [255 0 0 0], [255 85 85 85]" RecentUsedIconLibColors="[255 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255], [0 255 255 255]" TextRenderingAntiAliased="1" UseOpenGLonWin32="1" TextExpImpPath="" TextExpImpType="0">
     <AppearanceNoFrame Guid="15d1d0c3-fc36-43d0-8e4c-c6494ea435c4" SelFrameWidth="1" />
     <Appearance2DFrame Guid="cbf060b7-70df-4af2-a7cb-48584b6727be" FrameOn="[255 255 255 255]" FrameOff="[255 0 0 0]" FrameWidth="1" SelFrameWidth="2" />
     <Appearance3DFrame Guid="dfc5389d-a124-423d-b17b-8aab2d4c0969" FrameOn="[255 255 255 255]" FrameOff="[255 0 0 0]" ShadowTLOn="[255 0 0 0]" ShadowTLOff="[255 255 255 255]" ShadowBROn="[255 211 211 211]" ShadowBROff="[255 128 128 128]" FrameWidth="0" ShadowWidth="2" DispShadowWidth="2" />
@@ -247,7 +256,11 @@
       </GPanelConnection>
     </GPanel>
   </PlcDataManager>
-  <ConversionManager Guid="31fc247d-3a1d-4497-90ed-c753e7af6f3b" />
+  <ConversionManager Guid="31fc247d-3a1d-4497-90ed-c753e7af6f3b">
+    <ConversionGroup Guid="e490728b-7d2e-4a17-9797-1ccf53127a5f" Name="Group0">
+      <Conversion Guid="18fda1e3-4127-471b-a438-1d87badcdd15" Name="heures" CalcType="0" LeadingZeros="0" Digits="0" Dec="0" Multi="1" Div="1" Offset="0" Unit="d9e02782-229d-477b-a152-d5976d2bc8e7" />
+    </ConversionGroup>
+  </ConversionManager>
   <ParamListManager Guid="edcc3433-eaef-4276-ae4f-4249e6afc330" />
   <GraphBlockManager Guid="2bd56858-5d7c-4aa5-a579-648b13b893a0">
     <GraphFolder Guid="8d98157b-7089-4aea-9bb7-8620bfd90f05" />
