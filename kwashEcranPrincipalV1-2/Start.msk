@@ -1,5 +1,5 @@
 <StandardScreen Guid="7fa6a5da-06d9-4454-8588-a065ee59cbd6" Res="[1024 600]" ScreenColor="[255 192 192 192]" ActiveSet="d54fc57b-c801-43fd-82ca-b4b663e41ae9" Name="Start" No="0" Version="[10.6.0]" SaverTime="0" UseScreenSaver="0" UseTouchDisable="0" TouchTime="0" BackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
-  <Checksum Value="1450992147" />
+  <Checksum Value="3697876721" />
   <ControlUserControl Guid="b261dbf6-1cd7-4eae-9f79-5138c6cdb0fa" LockedPosition="0" ControlSet="d54fc57b-c801-43fd-82ca-b4b663e41ae9" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="0" Y_PropType="0" Y_Value="520" Width_PropType="0" Width_Value="1024" Height_PropType="0" Height_Value="80">
     <SubScreenEntry Guid="741672d1-2f0b-4bdc-b5fc-768e8aa2a562" SubScreen="0a16fc11-e422-492d-b641-8c88088f23b0" Name="">
       <SSAC Guid="01d54a9d-aad1-4ea3-b2c1-d99879beab96" />
@@ -14,17 +14,23 @@
   </Text>
   <ControlUserControl Guid="535953b3-1ee7-4f0a-b3cc-b1afacc9eda2" LockedPosition="0" ControlSet="d54fc57b-c801-43fd-82ca-b4b663e41ae9" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="30" Y_PropType="0" Y_Value="100" Width_PropType="0" Width_Value="150" Height_PropType="0" Height_Value="400">
     <SubScreenEntry Guid="276b7d76-db5e-4420-9916-a6eed9d6edfa" SubScreen="8dafc81b-0ce8-4497-abd2-697b41abbf7d" Name="">
-      <SSAC Guid="b8eb9234-6b9e-460a-9d28-70b606719d31" />
+      <SSAC Guid="b8eb9234-6b9e-460a-9d28-70b606719d31">
+        <TagSSA Guid="2ea64281-540d-49b2-b91a-fa5e3bb43bd9" SSP="5a76c23e-ad1c-4d6f-b3e3-02781d30fb56" Represents="0" Arg="baf32609-8cdb-407a-9554-28507c42bbcc" />
+      </SSAC>
     </SubScreenEntry>
   </ControlUserControl>
   <ControlUserControl Guid="599da81d-6fa3-40f8-ba62-94325f42661d" LockedPosition="0" ControlSet="d54fc57b-c801-43fd-82ca-b4b663e41ae9" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="200" Y_PropType="0" Y_Value="100" Width_PropType="0" Width_Value="150" Height_PropType="0" Height_Value="400">
     <SubScreenEntry Guid="0beb36c4-c3c2-4137-8b93-4e033cf54d61" SubScreen="8dafc81b-0ce8-4497-abd2-697b41abbf7d" Name="">
-      <SSAC Guid="f200bcb8-9d78-488c-8a9b-3d44864e279e" />
+      <SSAC Guid="f200bcb8-9d78-488c-8a9b-3d44864e279e">
+        <TagSSA Guid="ce5e172e-d696-4f46-9de9-2d2eaf80395e" SSP="5a76c23e-ad1c-4d6f-b3e3-02781d30fb56" Represents="0" Arg="c9392989-7abd-4732-8aff-832e54c1310c" />
+      </SSAC>
     </SubScreenEntry>
   </ControlUserControl>
   <ControlUserControl Guid="b4611760-922f-4f96-8e30-f6b24ac4134b" LockedPosition="0" ControlSet="d54fc57b-c801-43fd-82ca-b4b663e41ae9" Name="" Anchor="5" BackColor="[0 255 255 255]" ResizeMode="0" AlignmentForUniformStretch="1" X_PropType="0" X_Value="370" Y_PropType="0" Y_Value="100" Width_PropType="0" Width_Value="150" Height_PropType="0" Height_Value="400">
     <SubScreenEntry Guid="05330e0e-e4d5-417c-b722-e6b4712adf78" SubScreen="8dafc81b-0ce8-4497-abd2-697b41abbf7d" Name="">
-      <SSAC Guid="aabf2a63-4bfb-40eb-a895-db0b5243334a" />
+      <SSAC Guid="aabf2a63-4bfb-40eb-a895-db0b5243334a">
+        <TagSSA Guid="451d57a2-8db5-4df5-b511-5c20a998c50b" SSP="5a76c23e-ad1c-4d6f-b3e3-02781d30fb56" Represents="0" Arg="792375c3-773a-4f7a-bcf5-89d82ca3f4a9" />
+      </SSAC>
     </SubScreenEntry>
   </ControlUserControl>
   <Text Guid="05661227-27c2-41f6-84b2-adf64cd0ffbf" LockedPosition="0" ControlSet="d54fc57b-c801-43fd-82ca-b4b663e41ae9" Name="" Anchor="5" X_PropType="0" X_Value="30" Y_PropType="0" Y_Value="70" Width_PropType="0" Width_Value="150" Height_PropType="0" Height_Value="30">
