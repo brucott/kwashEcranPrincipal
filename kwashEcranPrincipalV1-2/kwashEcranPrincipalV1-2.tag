@@ -1,5 +1,5 @@
 <TagManager Guid="0e7c4593-09fd-4f39-a2f2-1cf19265b157">
-  <Checksum Value="2419866889" />
+  <Checksum Value="3021247788" />
   <CommTags />
   <TagContainer Guid="70084d7b-5698-4beb-978b-6f3c388756fc" Name="#: Internal Tags">
     <UDT Guid="d78a3466-4037-46f6-93e3-c59d577220ce" Name="Pistes" DataType="9" IsShared="0" IsLogged="0" Declaration="1" OverrideBaseProps="1" Dummy="0" Object="0">
@@ -145,5 +145,37 @@
       </BitTag>
       <TagAddress Guid="e3308e2f-2654-4f32-b232-47fa8ca267ac" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
     </UDTInst>
+    <ErrorArray Guid="e86a2257-133b-4c7e-b417-4ae2c142bd29" Name="Alarmes" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" StartIndex="0">
+      <LimitBit Guid="22d08c9d-9328-485b-8ef8-f3988b1f24d4" OpenLimit="1" Signed="1" PresetVal="0">
+        <LimitSettingIntegral Guid="0c2bd76b-6859-4f29-8fcd-236f69c15160" Type="0" Id="0" Value="0" />
+        <LimitSettingIntegral Guid="09cfe8f1-39f5-487b-a7d7-805a85338936" Type="0" Id="1" Value="0" />
+        <LimitSettingIntegral Guid="2750e745-3298-44e1-930e-cba823861d64" Type="0" Id="2" Value="1" />
+        <LimitSettingIntegral Guid="f5ef07cf-bb38-4470-9bcc-20c40c72c2d5" Type="0" Id="3" Value="1" />
+      </LimitBit>
+      <TagAddress Guid="e9b34dd4-61fb-4f21-87be-34d91c994070" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="1" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="0" PollingRate="0" />
+      <ErrArrElem Guid="11f3373d-d0ea-49fd-a707-e7c9a46c8a1b" Name="" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+      <ErrArrElem Guid="80f3f0ca-10d2-466c-804c-a89de2a1f161" Name="" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+      <ErrArrElem Guid="ee465078-f090-4e5b-b3c6-81ef639e2292" Name="" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+      <ErrArrElem Guid="340517d2-1ed1-42bd-baef-1e38c9fd9feb" Name="" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+      <ErrArrElem Guid="89e66fbd-e0ed-499b-83de-05f88a5dc3ee" Name="" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+      <ErrArrElem Guid="b75a6482-f59c-4148-a22e-d9f2a930985f" Name="" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+      <ErrArrElem Guid="731b57df-8d6f-4e19-9e79-9064f357aedb" Name="" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+      <ErrArrElem Guid="39de02e2-6d03-4bed-8d6c-2abb740e8260" Name="" DataType="5" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" ElemName="" />
+    </ErrorArray>
+    <StructTag Guid="888f1a1a-e770-42b7-8901-7a63c10faf16" Name="AlarmListTags" DataType="7" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+      <StringTag Guid="ec4e6cfe-f89f-4a19-b35a-aeb3f3cf2361" Name="Filter" DataType="6" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0" Preset="Temp" TextLength="20" Encoding="0" Termination="0">
+        <TagAddress Guid="a409c43b-1138-4b11-a437-9f88dad5b7cd" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+      </StringTag>
+      <BitTag Guid="8b33e0a4-c597-4fb9-8dd8-a33e1b9e8870" Name="FilterIndication" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+        <LimitBit Guid="9c247c8e-514a-4bdd-bbca-51dd1849f80b" OpenLimit="1" Signed="1" PresetVal="0">
+          <LimitSettingIntegral Guid="90855422-bdc2-4ace-b6b2-b6a7a1bb4696" Type="0" Id="0" Value="0" />
+          <LimitSettingIntegral Guid="f9ebc334-6465-4317-b2ae-3b9e5715e6a2" Type="0" Id="1" Value="0" />
+          <LimitSettingIntegral Guid="36174caf-2947-44f6-84dd-818dd4e41637" Type="0" Id="2" Value="1" />
+          <LimitSettingIntegral Guid="2911d66e-9e1e-4849-a49c-52339ba39545" Type="0" Id="3" Value="1" />
+        </LimitBit>
+        <TagAddress Guid="76b8e2c3-3c15-480e-aa76-c2ec0f925eeb" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+      </BitTag>
+      <TagAddress Guid="f787a5e1-4c62-416a-8b06-2ec69a19b4a9" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+    </StructTag>
   </TagContainer>
 </TagManager>

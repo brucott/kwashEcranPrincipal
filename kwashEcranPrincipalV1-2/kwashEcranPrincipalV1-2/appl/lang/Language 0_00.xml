@@ -18,6 +18,12 @@
 			<s ID="6"><![CDATA[h]]></s>
 			<s ID="7"><![CDATA[Nb heures :]]></s>
 			<s ID="8"><![CDATA[Piste]]></s>
+			<s ID="9"><![CDATA[Acquitter]]></s>
+			<s ID="10"><![CDATA[Acquitter toutes]]></s>
+			<s ID="11"><![CDATA[Trier]]></s>
+			<s ID="12"><![CDATA[Sauvegarde]]></s>
+			<s ID="13"><![CDATA[Chargement]]></s>
+			<s ID="14"><![CDATA[Masquer]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>

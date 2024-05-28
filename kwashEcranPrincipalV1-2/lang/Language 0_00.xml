@@ -10,5 +10,11 @@
 		<standard Guid="d9e02782-229d-477b-a152-d5976d2bc8e7" textID="6"><![CDATA[h]]></standard>
 		<standard Guid="0e4be098-cbfb-4f3d-8b19-6f0c40cd5b62" textID="7"><![CDATA[Nb heures :]]></standard>
 		<standard Guid="85dab916-5cc7-4291-8c7d-9867ddcd3aa1" textID="8"><![CDATA[Piste]]></standard>
+		<standard Guid="3036bd91-7a77-4148-8666-4ac90d4555a5" textID="9"><![CDATA[Acquitter]]></standard>
+		<standard Guid="1b7d58f8-513a-4381-a1f0-a5e6a28d0c8c" textID="10"><![CDATA[Acquitter toutes]]></standard>
+		<standard Guid="a14854ab-25ae-4264-9ebe-22be5e841808" textID="11"><![CDATA[Trier]]></standard>
+		<standard Guid="30cadcc1-05d3-4ea0-a896-fba49914f6cb" textID="12"><![CDATA[Sauvegarde]]></standard>
+		<standard Guid="d1f3a2f4-6786-47e3-a855-67f7e7a435f0" textID="13"><![CDATA[Chargement]]></standard>
+		<standard Guid="d6172d79-c2fc-4b21-a877-53a632590867" textID="14"><![CDATA[Masquer]]></standard>
 	</texts>
 </languageData>
