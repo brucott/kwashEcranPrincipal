@@ -24,6 +24,24 @@
 			<s ID="12"><![CDATA[Sauvegarde]]></s>
 			<s ID="13"><![CDATA[Chargement]]></s>
 			<s ID="14"><![CDATA[Masquer]]></s>
+			<s ID="15"><![CDATA[Proprietaire : 1234]]></s>
+			<s ID="16"><![CDATA[Mots de passe :]]></s>
+			<s ID="17"><![CDATA[Service : 5678]]></s>
+			<s ID="18"><![CDATA[Utilisateur]]></s>
+			<s ID="19"><![CDATA[1234]]></s>
+			<s ID="20"><![CDATA[Service]]></s>
+			<s ID="21"><![CDATA[5678]]></s>
+			<s ID="22"><![CDATA[Lavage jantes]]></s>
+			<s ID="23"><![CDATA[Prélavage]]></s>
+			<s ID="24"><![CDATA[Canon à mousse]]></s>
+			<s ID="25"><![CDATA[Lavage HP]]></s>
+			<s ID="26"><![CDATA[Brosse mousse]]></s>
+			<s ID="27"><![CDATA[Rinçage]]></s>
+			<s ID="28"><![CDATA[Canon polish]]></s>
+			<s ID="29"><![CDATA[Cire]]></s>
+			<s ID="30"><![CDATA[Finition]]></s>
+			<s ID="31"><![CDATA[Programme en cours :]]></s>
+			<s ID="32"><![CDATA[Arrêt]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>
@@ -49,7 +67,11 @@
 			<s ID="-24"><![CDATA[-10]]></s>
 		</standard>
 		<help />
-		<error />
+		<error>
+			<e ID="0"><![CDATA[Lavage jantes]]></e>
+			<e ID="1"><![CDATA[Prélavage]]></e>
+			<e ID="2"><![CDATA[Canon à mousse]]></e>
+		</error>
 		<system>
 			<sys ID="0"><![CDATA[%1]]></sys>
 			<sys ID="1"><![CDATA[%1]]></sys>
