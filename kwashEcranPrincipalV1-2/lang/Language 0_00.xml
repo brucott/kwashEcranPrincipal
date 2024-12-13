@@ -16,5 +16,12 @@
 		<standard Guid="30cadcc1-05d3-4ea0-a896-fba49914f6cb" textID="12"><![CDATA[Sauvegarde]]></standard>
 		<standard Guid="d1f3a2f4-6786-47e3-a855-67f7e7a435f0" textID="13"><![CDATA[Chargement]]></standard>
 		<standard Guid="d6172d79-c2fc-4b21-a877-53a632590867" textID="14"><![CDATA[Masquer]]></standard>
+		<standard Guid="31efac5d-e4c1-49e9-aef0-1d2ce9e82c80" textID="15"><![CDATA[Proprietaire : 1234]]></standard>
+		<standard Guid="bfefe958-95f6-422a-955c-8a0c28e1df09" textID="16"><![CDATA[Mots de passe :]]></standard>
+		<standard Guid="2e68f38f-e0c3-4255-b91c-4963dcc0c718" textID="17"><![CDATA[Service : 5678]]></standard>
+		<standard Guid="3e11434b-5ec4-4910-a9f9-809bbcce4bff" textID="18"><![CDATA[Utilisateur]]></standard>
+		<standard Guid="d606d081-65c1-455a-b41a-b9abc5abbe41" textID="19"><![CDATA[1234]]></standard>
+		<standard Guid="86f06826-404b-456d-a05e-3e03d361a285" textID="20"><![CDATA[Service]]></standard>
+		<standard Guid="5577e624-3532-4794-b8f3-baf92ef04673" textID="21"><![CDATA[5678]]></standard>
 	</texts>
 </languageData>

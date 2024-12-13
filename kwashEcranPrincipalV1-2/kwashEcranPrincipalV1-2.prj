@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<ProjectData Guid="e73cac95-53b4-4200-b517-884b7277be14" Version="[10.6.0]" GalileoVersion="Galileo (10.6.8.46693)" ProjectType="0">
-  <Checksum Value="1126003490" />
+<ProjectData Guid="e73cac95-53b4-4200-b517-884b7277be14" Version="[10.6.0]" GalileoVersion="Galileo (10.6.11.47324)" ProjectType="0">
+  <Checksum Value="1223851051" />
   <VisualizationManager Guid="46e00603-913f-4ca2-b4b1-8fd884b335af" ActiveVisu="3065087d-7ca2-430f-bebe-6164f3619165" LocalVisu="4dcced77-ca9c-4ec9-a602-5dbaf36ab771">
     <VisualizationGroup Guid="4dcced77-ca9c-4ec9-a602-5dbaf36ab771" Name="Local" Width="0" Height="0" DefaultBackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
       <Visualization Guid="3065087d-7ca2-430f-bebe-6164f3619165" Name="Local" URL="" Enabled="1" Pwd="" StartScreen="7fa6a5da-06d9-4454-8588-a065ee59cbd6" AutoDisconnectTimeInSeconds="0">
@@ -35,13 +35,13 @@
     </VisualizationGroup>
     <SystemKeyboardsManager Guid="06c7a463-5d22-450f-8255-aeed3d2138c4" OverrideStyles="0" OverrideBackgroundColor="0" SysKeybBackColor="[255 255 255 255]">
       <KeyboardOptions Guid="1d254245-268a-44bb-b035-2f338e1c8d33" PName="KeyboardOptions" IsActive="1" PaleScreen="1" FixedPosition="0" RememberLastPosition="0" DefaultPosition="0" DisplayAsPassword="0" ShowPassword="0" />
-      <SysKbStyleMapping Guid="691410d1-e022-4a09-b861-a5d976e897e3" SourceStyleGuid="03fa61c9-777a-49f9-85d0-1ea0c6913990" />
-      <SysKbStyleMapping Guid="8d9e1f83-61af-4111-ada8-aee8e5f9977a" SourceStyleGuid="56f1c807-279e-46f4-9f3a-660b099b6a03" />
-      <SysKbStyleMapping Guid="d024f54a-964f-40e6-8c0d-d462837f6171" SourceStyleGuid="ebbc0382-4fe2-4b7e-92b5-e7ca4a0c0e46" />
-      <SysKbStyleMapping Guid="1caadaf4-568a-483e-b00f-b1d246d1dfd1" SourceStyleGuid="5abb2195-1510-4de6-a4e1-147a28a3578b" />
-      <SysKbStyleMapping Guid="8eb9d81a-2343-4edf-b58f-79c5f3168054" SourceStyleGuid="00688495-7e8e-4ded-96a3-a0f5250430eb" />
-      <SysKbStyleMapping Guid="8488c1e9-4d70-4861-a713-77ffc3c6c236" SourceStyleGuid="8548104a-71d1-4d09-9f38-0a0fb3194971" />
-      <SysKbStyleMapping Guid="f60273fb-3734-499e-9961-a45291af4a25" SourceStyleGuid="1afeb758-4589-40af-894e-21295cd55efc" />
+      <SysKbStyleMapping Guid="2adb456a-6fc6-4a3d-b813-dacdaa97bc0e" SourceStyleGuid="39541c9f-3f0e-4fc4-962b-fefda688bda2" />
+      <SysKbStyleMapping Guid="533d2291-5cad-4a53-8457-f99d9d02f9f4" SourceStyleGuid="a1c133ec-4435-4563-abb4-c2c5b047a87d" />
+      <SysKbStyleMapping Guid="335f1122-396b-4ed7-a12f-7f40852b9fee" SourceStyleGuid="2da3904c-889e-4e20-af09-c56b6606ef6d" />
+      <SysKbStyleMapping Guid="bd1ce46f-cacd-4b94-80ea-3b293f0218a0" SourceStyleGuid="2b00f381-79bd-48cc-a617-70d0e0d4ae8a" />
+      <SysKbStyleMapping Guid="7cae74a5-5ef3-478d-98b5-d43a5b9daab3" SourceStyleGuid="c974ad16-219e-4fe5-9533-9ca56fe51a65" />
+      <SysKbStyleMapping Guid="d7a27dbf-78d7-4af1-b36c-c8e68adc306f" SourceStyleGuid="3f911294-d48b-4bd8-a860-7c73c56dcb14" />
+      <SysKbStyleMapping Guid="3776551e-719b-49bd-bb76-5299856bc9e4" SourceStyleGuid="027c57a2-1811-418b-9f0e-f0f3b7a44342" />
     </SystemKeyboardsManager>
   </VisualizationManager>
   <LanguageManager Guid="59c5b862-0793-437d-955f-33119015263e" NextFreeGlobalID="1">
@@ -69,6 +69,13 @@
     <StandardText Guid="30cadcc1-05d3-4ea0-a896-fba49914f6cb" TextId="12" />
     <StandardText Guid="d1f3a2f4-6786-47e3-a855-67f7e7a435f0" TextId="13" />
     <StandardText Guid="d6172d79-c2fc-4b21-a877-53a632590867" TextId="14" />
+    <StandardText Guid="31efac5d-e4c1-49e9-aef0-1d2ce9e82c80" TextId="15" />
+    <StandardText Guid="bfefe958-95f6-422a-955c-8a0c28e1df09" TextId="16" />
+    <StandardText Guid="2e68f38f-e0c3-4255-b91c-4963dcc0c718" TextId="17" />
+    <StandardText Guid="3e11434b-5ec4-4910-a9f9-809bbcce4bff" TextId="18" />
+    <StandardText Guid="d606d081-65c1-455a-b41a-b9abc5abbe41" TextId="19" />
+    <StandardText Guid="86f06826-404b-456d-a05e-3e03d361a285" TextId="20" />
+    <StandardText Guid="5577e624-3532-4794-b8f3-baf92ef04673" TextId="21" />
   </TextManager>
   <PictureManager Guid="7d5f2793-62dc-4cba-84f4-5ded491597a2">
     <VideoFolder Guid="c4214ce1-ec7e-4b6a-808e-bb680d576e69" Name="Project video" />
@@ -313,6 +320,20 @@
   </GraphBlockManager>
   <UserManager Guid="f32ad5fe-c9ac-41dd-aae6-5563f850f301" AutomaticLanguageChange="0" LogoutTagValue="-1" MinimumPasswordLength="4" LastCheckedPasswordsCount="0" SetBitTagToOne="1">
     <UserFolder Guid="0deb4c85-e455-411d-b6b9-195247624677" ID="0" RightToCreate="0" RightToDelete="0" RightToLock="0" RightToChangeGroupAffiliation="0" RightToChangePassword="0" PasswordAging_PropType="0" PasswordAging_Value="0" StartPassword_PropType="0" StartPassword_Value="0" AutoLogout_PropType="0" AutoLogout_Value="0" BadLogins_PropType="0" BadLogins_Value="0">
+      <UserFolder Guid="5fdaeab4-6ca9-40af-8e4f-e3033dca0ed5" FolderName="Proprietaire" ID="0" RightToCreate="0" RightToDelete="0" RightToLock="0" RightToChangeGroupAffiliation="0" RightToChangePassword="0" PasswordAging_PropType="0" PasswordAging_Value="0" StartPassword_PropType="0" StartPassword_Value="0" AutoLogout_PropType="0" AutoLogout_Value="0" BadLogins_PropType="0" BadLogins_Value="0">
+        <User Guid="cff56b1f-327c-481c-89aa-8fa918a225fe" Name="Proprietaire" Locked="0" Password="0 171 143 145 124 233 26 199 164 116 114 41 165 4 15 103" PVersion="1" PasswordIsTag="0" />
+        <DestinationFolders />
+        <TagList Guid="b158ed0f-1df4-438a-ac55-0cad321270f5" PName="GroupRightsTags">
+          <InnerTagList />
+        </TagList>
+      </UserFolder>
+      <UserFolder Guid="ab69a29f-6f59-48c2-bee4-95e518d1c3ee" FolderName="Service" ID="0" RightToCreate="0" RightToDelete="0" RightToLock="0" RightToChangeGroupAffiliation="0" RightToChangePassword="0" PasswordAging_PropType="0" PasswordAging_Value="0" StartPassword_PropType="0" StartPassword_Value="0" AutoLogout_PropType="0" AutoLogout_Value="0" BadLogins_PropType="0" BadLogins_Value="0">
+        <User Guid="a5da6a74-288a-46c0-a422-6c4a6922df7d" Name="Service" Locked="0" Password="159 135 168 174 140 5 136 199 132 204 56 177 246 176 98 15" PVersion="1" PasswordIsTag="0" />
+        <DestinationFolders />
+        <TagList Guid="638ccbaf-2659-471f-9bd7-cdf3b1741303" PName="GroupRightsTags">
+          <InnerTagList />
+        </TagList>
+      </UserFolder>
       <DestinationFolders />
       <TagList Guid="225401fc-20a8-4ebb-bfc2-6e2634e3e15d" PName="GroupRightsTags">
         <InnerTagList />
