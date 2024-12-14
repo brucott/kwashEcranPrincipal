@@ -36,6 +36,9 @@
 		<standard Guid="916e6972-1003-4c2b-935e-2b13951611a0" textID="32"><![CDATA[Arrêt]]></standard>
 		<standard Guid="35501f11-aac6-4b69-90e5-695a6584353d" textID="33"><![CDATA[Piste 4]]></standard>
 		<standard Guid="f87f589d-8a6a-428c-aa54-58e26ed4949f" textID="34"><![CDATA[Piste 5]]></standard>
+		<standard Guid="ccfd34ce-c5b0-4802-ab90-f44efb2d0225" textID="35"><![CDATA[Compteur horaire :]]></standard>
+		<standard Guid="a111fc91-f71d-49ea-8883-5447615f8382" textID="36"><![CDATA[:]]></standard>
+		<standard Guid="dbf01ab6-f2e1-447b-8164-b94af546be87" textID="37"><![CDATA[Compteurs]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>

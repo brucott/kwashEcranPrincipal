@@ -1,5 +1,5 @@
 <SubScreen Guid="0a16fc11-e422-492d-b641-8c88088f23b0" Res="[1024 80]" ScreenColor="[0 255 255 255]" ActiveSet="cfd43269-633e-4f96-80af-1ca1bcfe212e" Name="bandeauBas" No="0" Version="[10.6.0]" DefaultResizeMode="0" DefaultAlignmentForUniformStretch="1">
-  <Checksum Value="1303876034" />
+  <Checksum Value="2347222119" />
   <TimeDate Guid="817d49e3-0dde-414a-85dc-52c6c483e3dd" LockedPosition="0" ControlSet="cfd43269-633e-4f96-80af-1ca1bcfe212e" Name="" Anchor="5" FrameStyle="2" DateTimeFomat="DD.MM.YY" X_PropType="0" X_Value="910" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="100" Height_PropType="0" Height_Value="30">
     <State Guid="9259734b-271f-4336-9bb8-78966ebd73ca" Name="Text" Version="[1.1.0]">
       <ColorDecorator Guid="06c2da15-5965-4115-99e1-3aa5e30cf489" ID="0" Color="[0 255 255 255]" Blink="0" BlinkColor="[255 211 211 211]" />
@@ -44,6 +44,16 @@
   </ScreenChange>
   <Line Guid="00f83af3-1196-49af-a549-dce8a034f2b5" LockedPosition="0" ControlSet="cfd43269-633e-4f96-80af-1ca1bcfe212e" Name="" LineStyleType="0" LineBeginType="0" LineEndType="0" Blink="0" BlinkCondition="0" X_PropType="0" X_Value="80" Y_PropType="0" Y_Value="0" StartX_PropType="0" StartX_Value="80" StartY_PropType="0" StartY_Value="0" EndX_PropType="0" EndX_Value="80" EndY_PropType="0" EndY_Value="80" LineWidth_PropType="0" LineWidth_Value="1" LineColor_PropType="0" LineColor_Value="[255 0 255 0]" LineColor_Mode="0" LineColor_SetType="0" BlinkTag_PropType="1" />
   <Line Guid="cbd42165-585f-4ce8-96a0-4e3eae7309e3" LockedPosition="0" ControlSet="cfd43269-633e-4f96-80af-1ca1bcfe212e" Name="" LineStyleType="0" LineBeginType="0" LineEndType="0" Blink="0" BlinkCondition="0" X_PropType="0" X_Value="900" Y_PropType="0" Y_Value="0" StartX_PropType="0" StartX_Value="900" StartY_PropType="0" StartY_Value="0" EndX_PropType="0" EndX_Value="900" EndY_PropType="0" EndY_Value="80" LineWidth_PropType="0" LineWidth_Value="1" LineColor_PropType="0" LineColor_Value="[255 0 255 0]" LineColor_Mode="0" LineColor_SetType="0" BlinkTag_PropType="1" />
+  <ScreenChange Guid="31d749b2-5138-4a84-a915-e464f9f1f98e" LockedPosition="0" ControlSet="cfd43269-633e-4f96-80af-1ca1bcfe212e" Name="" Anchor="5" Style="0a494d18-96fd-4ce5-9630-27afa9fe9de5" Click="0" FrameStyle="2" Animation="0" X_PropType="0" X_Value="690" Y_PropType="0" Y_Value="10" Width_PropType="0" Width_Value="60" Height_PropType="0" Height_Value="60" TargetScreenData_PropType="0" TargetScreenData_Value="f73941e5-1bd1-4da9-ae1e-37148dd22ad2">
+    <State Guid="716526fd-5217-407d-a9fc-85c98ce8c9db" Name="On" Version="[1.1.0]">
+      <BackImageDecorator Guid="da171a2a-657e-4c01-92e7-3f34ca871e00" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c94751af-3f42-4fc1-91a2-d4ef7d55e10f" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="f30145e4-54ee-43ab-b928-11df92d6077c" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aea0f39c-10e1-4294-86e3-5d7755a65d80" TriggerData_PropType="1" Margins="[10px, 10px, 10px, 10px]" />
+    </State>
+    <State Guid="2f323517-732a-4db0-9a03-37d0ba50914d" Name="Off" Version="[1.1.0]">
+      <BackImageDecorator Guid="ee82b644-a59c-45f2-a835-d8373a8311b6" ID="0" Stretched="0" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="c94751af-3f42-4fc1-91a2-d4ef7d55e10f" TriggerData_PropType="1" Margins="[0px, 0px, 0px, 0px]" />
+      <IconImageDecorator Guid="0987ac60-bab1-43f1-88bc-2942d0bb2114" ID="1" Stretched="2" Blink="0" Rotation="0" Flip="0" Align="4" RepeatCount="0" TriggerTagLogic="0" InterruptionType="1" MainData_PropType="0" MainData_Value="aea0f39c-10e1-4294-86e3-5d7755a65d80" TriggerData_PropType="1" Margins="[10px, 10px, 10px, 10px]" />
+    </State>
+  </ScreenChange>
   <ControlSet Guid="cfd43269-633e-4f96-80af-1ca1bcfe212e" Name="ControlSet" />
   <SSPC Guid="24b7e470-6a7e-4d00-8b63-6e595d58f131" />
 </SubScreen>

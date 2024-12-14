@@ -33,7 +33,7 @@
 			<s ID="21"><![CDATA[5678]]></s>
 			<s ID="22"><![CDATA[Lavage jantes]]></s>
 			<s ID="23"><![CDATA[Prélavage]]></s>
-			<s ID="24"><![CDATA[Canon à mousse]]></s>
+			<s ID="24"><![CDATA[Canon mousse]]></s>
 			<s ID="25"><![CDATA[Lavage HP]]></s>
 			<s ID="26"><![CDATA[Brosse mousse]]></s>
 			<s ID="27"><![CDATA[Rinçage]]></s>
@@ -42,6 +42,11 @@
 			<s ID="30"><![CDATA[Finition]]></s>
 			<s ID="31"><![CDATA[Programme en cours :]]></s>
 			<s ID="32"><![CDATA[Arrêt]]></s>
+			<s ID="33"><![CDATA[Piste 4]]></s>
+			<s ID="34"><![CDATA[Piste 5]]></s>
+			<s ID="35"><![CDATA[Compteur horaire :]]></s>
+			<s ID="36"><![CDATA[:]]></s>
+			<s ID="37"><![CDATA[Compteurs]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>

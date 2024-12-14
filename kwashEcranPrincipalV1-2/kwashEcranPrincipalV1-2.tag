@@ -1,5 +1,5 @@
 <TagManager Guid="0e7c4593-09fd-4f39-a2f2-1cf19265b157">
-  <Checksum Value="2863794147" />
+  <Checksum Value="924537396" />
   <CommTags>
     <CommTagsDict CommKey="0">
       <TagContainer Guid="deef41da-5d6d-4788-8ccc-4a70021adac1" Name="0. Modbus TCP easyE4">
@@ -70,6 +70,42 @@
             <LimitSettingIntegral Guid="e26587ae-33e2-46d4-ac7b-080a134db7f1" Type="0" Id="3" Value="32767" />
           </LimitWord>
           <TagAddress Guid="7c042bb4-4560-470b-bf10-a9a32c06e88c" IsActive="1" Syntax="R%d" Param1="1001" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+        </WordTag>
+        <DWordTag Guid="a18acffb-0fad-4850-b8fd-fafce7003e89" Name="MD017" DataType="3" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+          <LimitDWord Guid="f0e222c6-8805-476d-8c4c-3c5bf013a595" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="372e0198-bb8b-4a5a-ab49-9043d9cba0ec" Type="0" Id="0" Value="-2147483648" />
+            <LimitSettingIntegral Guid="b3b8ec3c-e01c-4d81-aaee-78d16f5dafe0" Type="0" Id="1" Value="-2147483648" />
+            <LimitSettingIntegral Guid="2b157550-e225-4310-b55b-63a28eb4b212" Type="0" Id="2" Value="2147483647" />
+            <LimitSettingIntegral Guid="74388771-b014-4495-ae29-0ef5273f7387" Type="0" Id="3" Value="2147483647" />
+          </LimitDWord>
+          <TagAddress Guid="16a7d4f4-29a5-42c7-91b2-c138db2d7e0a" IsActive="1" Syntax="R%d" Param1="1033" Param2="" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+        </DWordTag>
+        <DWordTag Guid="97f8c362-98b7-434a-934f-6d03dde478a4" Name="MD018" DataType="3" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+          <LimitDWord Guid="ae32a251-9dfa-48b2-b0f0-f0cf1d248f72" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="e76bd35d-6838-4395-ba69-04fec6dcc85b" Type="0" Id="0" Value="-2147483648" />
+            <LimitSettingIntegral Guid="c73a02bc-e05b-48e9-93e9-9ac1ced47f33" Type="0" Id="1" Value="-2147483648" />
+            <LimitSettingIntegral Guid="2aaf84a9-7a75-41e5-99f1-00c629955445" Type="0" Id="2" Value="2147483647" />
+            <LimitSettingIntegral Guid="d4ccb5bb-c96e-4d35-b6e0-45266f63709c" Type="0" Id="3" Value="2147483647" />
+          </LimitDWord>
+          <TagAddress Guid="b7c22013-64c0-4bec-a392-6d2a5e17a352" IsActive="1" Syntax="R%d" Param1="1035" Param2="" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+        </DWordTag>
+        <DWordTag Guid="d4eef030-9f62-4d90-9988-0dbd880116ae" Name="MD019" DataType="3" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+          <LimitDWord Guid="35c7b636-72e5-4b66-a71d-49f16e5a1d32" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="2fc83ead-27f0-4d59-b2c7-75be9c854f1b" Type="0" Id="0" Value="-2147483648" />
+            <LimitSettingIntegral Guid="0e79c659-4a31-46e2-8d7d-5162fcacc120" Type="0" Id="1" Value="-2147483648" />
+            <LimitSettingIntegral Guid="9cb49122-b6d0-44a5-88b3-eed8aa80663b" Type="0" Id="2" Value="2147483647" />
+            <LimitSettingIntegral Guid="4e135bc0-1586-4d21-99de-b5c16df27087" Type="0" Id="3" Value="2147483647" />
+          </LimitDWord>
+          <TagAddress Guid="b7899674-ef11-499e-bfd0-0f8c15aa15b3" IsActive="1" Syntax="R%d" Param1="1037" Param2="" Param3="" Param4="" Param5="" UseStdName="0" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
+        </DWordTag>
+        <WordTag Guid="51c48336-79a1-43de-ac27-5eec3b410156" Name="MW12" DataType="2" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+          <LimitWord Guid="17cde8a3-7bfb-4c41-8201-a025f0d8b6f3" OpenLimit="1" Signed="1" PresetVal="0">
+            <LimitSettingIntegral Guid="bcf28232-fcb3-44db-b78d-22081951ab92" Type="0" Id="0" Value="-32768" />
+            <LimitSettingIntegral Guid="71c8c0e3-4dd9-4805-9b95-1edb3248a59c" Type="0" Id="1" Value="-32768" />
+            <LimitSettingIntegral Guid="d3be41ff-2f00-4f6d-9ae1-bf619f149c79" Type="0" Id="2" Value="32767" />
+            <LimitSettingIntegral Guid="45da1ad1-3849-4510-8b7d-3d6d98624d65" Type="0" Id="3" Value="32767" />
+          </LimitWord>
+          <TagAddress Guid="f72eef73-148b-473b-b593-55bda625b17b" IsActive="1" Syntax="R%d" Param1="10012" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
         </WordTag>
       </TagContainer>
     </CommTagsDict>
