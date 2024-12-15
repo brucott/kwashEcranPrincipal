@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <ProjectData Guid="e73cac95-53b4-4200-b517-884b7277be14" Version="[10.6.0]" GalileoVersion="Galileo (10.6.11.47324)" ProjectType="0">
-  <Checksum Value="232015873" />
+  <Checksum Value="2840564438" />
   <VisualizationManager Guid="46e00603-913f-4ca2-b4b1-8fd884b335af" ActiveVisu="3065087d-7ca2-430f-bebe-6164f3619165" LocalVisu="4dcced77-ca9c-4ec9-a602-5dbaf36ab771">
     <VisualizationGroup Guid="4dcced77-ca9c-4ec9-a602-5dbaf36ab771" Name="Local" Width="0" Height="0" DefaultBackgroundScreen="561100d7-339a-4510-95bf-1b945f2ad13d">
       <Visualization Guid="3065087d-7ca2-430f-bebe-6164f3619165" Name="Local" URL="" Enabled="1" Pwd="" StartScreen="7fa6a5da-06d9-4454-8588-a065ee59cbd6" AutoDisconnectTimeInSeconds="0">
@@ -20,6 +20,7 @@
             <ScreenRef Guid="266f9238-73ab-4281-9f8d-011f1e6fe55a" Name="parameters" />
             <ScreenRef Guid="346a85be-e345-4ddc-b927-55223035aadb" Name="alarmes" />
             <ScreenRef Guid="f73941e5-1bd1-4da9-ae1e-37148dd22ad2" Name="Compteurs" />
+            <ScreenRef Guid="a87fe81b-b6f9-4350-a27a-392734721d77" Name="Contacts" />
           </ScreenFolderRootNew>
           <ScreenFolderRootNew Guid="3895ba6d-5254-4c4a-b5dc-1da0dbc93c2a" Name="" Type="3" />
           <ScreenFolderRootNew Guid="467d9255-4d48-4818-85d7-54f6a83856fc" Name="" Type="4" />
@@ -92,6 +93,12 @@
     <StandardText Guid="ccfd34ce-c5b0-4802-ab90-f44efb2d0225" TextId="35" />
     <StandardText Guid="a111fc91-f71d-49ea-8883-5447615f8382" TextId="36" />
     <StandardText Guid="dbf01ab6-f2e1-447b-8164-b94af546be87" TextId="37" />
+    <StandardText Guid="321d029f-fcb6-4a4d-8fbf-262ffc4005e3" TextId="38" />
+    <StandardText Guid="a7d75991-0aba-47cc-8d5f-4db11cb824ad" TextId="39" />
+    <StandardText Guid="a272e75d-d7ce-43d2-8c85-8a416ff83bae" TextId="40" />
+    <StandardText Guid="d6273f44-0e01-467c-96eb-b1bdd8c56b01" TextId="41" />
+    <StandardText Guid="b621d286-fcbc-4a5a-a4e1-0b9112223e7c" TextId="42" />
+    <StandardText Guid="581035d8-498d-4b2d-8086-dc859f6a7b30" TextId="43" />
     <ErrorText Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" TextId="0" />
     <ErrorText Guid="0425fbb3-bcac-4536-9e28-2052318543bc" TextId="1" />
     <ErrorText Guid="73021637-f83f-400e-a723-c6751f50b7f0" TextId="2" />
@@ -112,8 +119,12 @@
         <Picture Guid="ea15e3b7-b051-49c1-8ef6-4befc9ae02b1" FileName="Background_Dark1024_600.png" InsetH="0" InsetV="0" />
       </PictureFolder>
       <PictureFolder Guid="d34a0fae-daf2-421e-9316-c776accd4e31" Name="icones">
+        <SvgPicture Guid="b042ca35-5170-4598-b5fd-3bfa74914641" FileName="clock_counter_clockwise_bold.svg" InsetH="0" InsetV="0" />
+        <SvgPicture Guid="912031a7-7896-488a-9942-425f5706c613" FileName="Home.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="d6422d2f-de49-4617-8cda-a42f87db3b12" FileName="ShutDown.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="aea0f39c-10e1-4294-86e3-5d7755a65d80" FileName="Time.svg" InsetH="0" InsetV="0" />
+        <SvgPicture Guid="5272ee9a-a998-4848-8230-3579b6aaf996" FileName="timer_watch_count_time_clock.svg" InsetH="0" InsetV="0" />
+        <SvgPicture Guid="ff6c0050-e5d6-4889-b6e1-d4b1b91685d9" FileName="UsersType1.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="66c3466f-e4ee-41f4-9014-679f12331a17" FileName="Warning.svg" InsetH="0" InsetV="0" />
         <SvgPicture Guid="38f4c9bb-e060-46aa-8f27-1aef495d4282" FileName="WrenchType1.svg" InsetH="0" InsetV="0" />
       </PictureFolder>
@@ -347,14 +358,19 @@
         <User Guid="cff56b1f-327c-481c-89aa-8fa918a225fe" Name="Proprietaire" Locked="0" Password="0 171 143 145 124 233 26 199 164 116 114 41 165 4 15 103 0 0 0 0" PVersion="1" PasswordIsTag="0" />
         <DestinationFolders />
         <TagList Guid="b158ed0f-1df4-438a-ac55-0cad321270f5" PName="GroupRightsTags">
-          <InnerTagList />
+          <InnerTagList>
+            <TagRef Guid="5b01965c-2c7f-4853-bdb9-be0b9da285d7" />
+          </InnerTagList>
         </TagList>
       </UserFolder>
       <UserFolder Guid="ab69a29f-6f59-48c2-bee4-95e518d1c3ee" FolderName="Service" ID="0" RightToCreate="0" RightToDelete="0" RightToLock="0" RightToChangeGroupAffiliation="0" RightToChangePassword="0" PasswordAging_PropType="0" PasswordAging_Value="0" StartPassword_PropType="0" StartPassword_Value="0" AutoLogout_PropType="0" AutoLogout_Value="0" BadLogins_PropType="0" BadLogins_Value="0">
         <User Guid="a5da6a74-288a-46c0-a422-6c4a6922df7d" Name="Service" Locked="0" Password="159 135 168 174 140 5 136 199 132 204 56 177 246 176 98 15 0 0 0 0" PVersion="1" PasswordIsTag="0" />
         <DestinationFolders />
         <TagList Guid="638ccbaf-2659-471f-9bd7-cdf3b1741303" PName="GroupRightsTags">
-          <InnerTagList />
+          <InnerTagList>
+            <TagRef Guid="4dba923c-443c-488d-9356-9a66032cfcc7" />
+            <TagRef Guid="5b01965c-2c7f-4853-bdb9-be0b9da285d7" />
+          </InnerTagList>
         </TagList>
       </UserFolder>
       <DestinationFolders />
@@ -372,7 +388,10 @@
       <Val_Key_Guid_ScreenRef Key="4dcced77-ca9c-4ec9-a602-5dbaf36ab771" Value="62475cdb-bfbb-46a7-bbd0-22908f0b2c0c" />
     </SharedVal_Guid_ScreenRef>
     <TagList Guid="4195f816-8485-44cb-9d51-067ed49939e6" PName="GroupRightsTags">
-      <InnerTagList />
+      <InnerTagList>
+        <TagRef Guid="5b01965c-2c7f-4853-bdb9-be0b9da285d7" />
+        <TagRef Guid="4dba923c-443c-488d-9356-9a66032cfcc7" />
+      </InnerTagList>
     </TagList>
     <SharedVal_Guid_ScreenRef Name="LogoutScreen">
       <Val_Key_Guid_ScreenRef Key="4dcced77-ca9c-4ec9-a602-5dbaf36ab771" />

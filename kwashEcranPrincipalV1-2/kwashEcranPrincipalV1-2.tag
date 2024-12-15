@@ -1,5 +1,5 @@
 <TagManager Guid="0e7c4593-09fd-4f39-a2f2-1cf19265b157">
-  <Checksum Value="924537396" />
+  <Checksum Value="393871939" />
   <CommTags>
     <CommTagsDict CommKey="0">
       <TagContainer Guid="deef41da-5d6d-4788-8ccc-4a70021adac1" Name="0. Modbus TCP easyE4">
@@ -178,7 +178,7 @@
       </BitTag>
       <TagAddress Guid="f787a5e1-4c62-416a-8b06-2ec69a19b4a9" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
     </StructTag>
-    <BitTag Guid="5b01965c-2c7f-4853-bdb9-be0b9da285d7" Name="Bit0" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+    <BitTag Guid="5b01965c-2c7f-4853-bdb9-be0b9da285d7" Name="PassOkProprietaire" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
       <LimitBit Guid="079055c9-a662-4df1-b897-a42c091e34db" OpenLimit="1" Signed="1" PresetVal="0">
         <LimitSettingIntegral Guid="824dbd50-67e3-40fe-8c2e-29cd1df3f693" Type="0" Id="0" Value="0" />
         <LimitSettingIntegral Guid="1212af9c-579f-44b4-8850-e4deb4f059a6" Type="0" Id="1" Value="0" />
@@ -187,7 +187,7 @@
       </LimitBit>
       <TagAddress Guid="b29df584-cba6-42b7-b7f1-e3d913575df7" IsActive="1" Syntax="" Param1="" Param2="" Param3="" Param4="" Param5="0" UseStdName="1" UseStdArrayIndex="0" ReadOnDemand="1" ReadAtStartup="1" WriteOnDemand="1" Polling="1" PollingRate="0" />
     </BitTag>
-    <BitTag Guid="4dba923c-443c-488d-9356-9a66032cfcc7" Name="Bit1" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
+    <BitTag Guid="4dba923c-443c-488d-9356-9a66032cfcc7" Name="PassOkService" DataType="0" IsShared="0" IsLogged="0" Declaration="0" OverrideBaseProps="1" Dummy="0" Object="0">
       <LimitBit Guid="b8039fd9-c935-4a57-9db9-0c987d211d81" OpenLimit="1" Signed="1" PresetVal="0">
         <LimitSettingIntegral Guid="f6881595-f1bd-4687-8641-05e56814f684" Type="0" Id="0" Value="0" />
         <LimitSettingIntegral Guid="69ed7557-ff5a-4055-86d9-f7db7fa87137" Type="0" Id="1" Value="0" />

@@ -47,6 +47,8 @@
 			<s ID="35"><![CDATA[Compteur horaire :]]></s>
 			<s ID="36"><![CDATA[:]]></s>
 			<s ID="37"><![CDATA[Compteurs]]></s>
+			<s ID="38"><![CDATA[Proprietaire]]></s>
+			<s ID="39"><![CDATA[Déconnecter]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>

@@ -39,6 +39,12 @@
 		<standard Guid="ccfd34ce-c5b0-4802-ab90-f44efb2d0225" textID="35"><![CDATA[Compteur horaire :]]></standard>
 		<standard Guid="a111fc91-f71d-49ea-8883-5447615f8382" textID="36"><![CDATA[:]]></standard>
 		<standard Guid="dbf01ab6-f2e1-447b-8164-b94af546be87" textID="37"><![CDATA[Compteurs]]></standard>
+		<standard Guid="321d029f-fcb6-4a4d-8fbf-262ffc4005e3" textID="38"><![CDATA[Proprietaire]]></standard>
+		<standard Guid="a7d75991-0aba-47cc-8d5f-4db11cb824ad" textID="39"><![CDATA[Déconnecter]]></standard>
+		<standard Guid="a272e75d-d7ce-43d2-8c85-8a416ff83bae" textID="40"><![CDATA[Contacts]]></standard>
+		<standard Guid="d6273f44-0e01-467c-96eb-b1bdd8c56b01" textID="41"><![CDATA[Téléphone :]]></standard>
+		<standard Guid="b621d286-fcbc-4a5a-a4e1-0b9112223e7c" textID="42"><![CDATA[Mail :]]></standard>
+		<standard Guid="581035d8-498d-4b2d-8086-dc859f6a7b30" textID="43"><![CDATA[Adresse :]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>
