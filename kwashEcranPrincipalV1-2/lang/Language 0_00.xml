@@ -45,6 +45,25 @@
 		<standard Guid="d6273f44-0e01-467c-96eb-b1bdd8c56b01" textID="41"><![CDATA[Téléphone :]]></standard>
 		<standard Guid="b621d286-fcbc-4a5a-a4e1-0b9112223e7c" textID="42"><![CDATA[Mail :]]></standard>
 		<standard Guid="581035d8-498d-4b2d-8086-dc859f6a7b30" textID="43"><![CDATA[Adresse :]]></standard>
+		<standard Guid="61444fbd-f7df-41bf-9f3d-3de3c44c7167" textID="44"><![CDATA[Compteur total :]]></standard>
+		<standard Guid="9b8eeca4-d945-4d82-b200-7d53df2a75dd" textID="45"><![CDATA[Hors gel, auto/manu]]></standard>
+		<standard Guid="1e6eecdb-fbee-49f0-849a-5a6163285ca2" textID="46"><![CDATA[Eclairage, auto/manu]]></standard>
+		<standard Guid="88ea1cfb-203e-4a9e-8a2d-dd79954d7b97" textID="47"><![CDATA[Eclairage, horaires]]></standard>
+		<standard Guid="bc2f7531-325f-4837-a438-142278acc20d" textID="48"><![CDATA[Hors gel, reglages]]></standard>
+		<standard Guid="e0ca9723-8283-47d4-82c2-bafd6f3a649d" textID="49"><![CDATA[Dosages]]></standard>
+		<standard Guid="9e3cf2c2-c285-4be2-9fb8-dbb268806115" textID="50"><![CDATA[Station]]></standard>
+		<standard Guid="8b5e4e22-152c-4f0c-b532-57d83e007c7a" textID="51"><![CDATA[Eau]]></standard>
+		<standard Guid="1463228e-8505-4f2a-bd1a-b7da2de47b88" textID="52"><![CDATA[Eau osmosée]]></standard>
+		<standard Guid="33135300-f025-4627-b85a-37123acfac13" textID="53"><![CDATA[Hors gel]]></standard>
+		<standard Guid="ebebe4c3-45ec-44ea-85ac-08e8174e7165" textID="54"><![CDATA[1-I01 ~ jantes]]></standard>
+		<standard Guid="c39a06ab-838c-405b-81d0-1b4fa76c1d8d" textID="55"><![CDATA[1-I02 ~ prélavage]]></standard>
+		<standard Guid="9bb9086f-9f2e-473f-b2a1-68af64531ef1" textID="56"><![CDATA[1-I03 ~ canon mousse]]></standard>
+		<standard Guid="c41c13d3-8963-41b5-b080-00d51bf54fdf" textID="57"><![CDATA[1-I04 ~ lavage HP]]></standard>
+		<standard Guid="e88fb294-dfce-4473-91a1-f0ff3b20f1a3" textID="58"><![CDATA[1-I05 ~ brosse mousse]]></standard>
+		<standard Guid="c6a8cb8a-4ee0-4588-919f-a2daa430920b" textID="59"><![CDATA[1-I06 ~ rincage]]></standard>
+		<standard Guid="e5f9a6e9-ca12-40d0-81fd-b5fd0054e8df" textID="60"><![CDATA[1-I07 ~ polish]]></standard>
+		<standard Guid="01f61818-5d35-410c-adff-31a8a4722ab5" textID="61"><![CDATA[1-I08 ~ cire]]></standard>
+		<standard Guid="0f6e98bb-91fc-4701-9285-dda2811b0944" textID="62"><![CDATA[2-I01 ~ finition]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>
