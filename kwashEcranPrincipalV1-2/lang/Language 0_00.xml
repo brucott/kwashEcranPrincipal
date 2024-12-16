@@ -64,6 +64,33 @@
 		<standard Guid="e5f9a6e9-ca12-40d0-81fd-b5fd0054e8df" textID="60"><![CDATA[1-I07 ~ polish]]></standard>
 		<standard Guid="01f61818-5d35-410c-adff-31a8a4722ab5" textID="61"><![CDATA[1-I08 ~ cire]]></standard>
 		<standard Guid="0f6e98bb-91fc-4701-9285-dda2811b0944" textID="62"><![CDATA[2-I01 ~ finition]]></standard>
+		<standard Guid="db3b74fc-f0f0-4656-aaf6-0a6f4a57b3f1" textID="63"><![CDATA[Entrées / sorties]]></standard>
+		<standard Guid="9046368e-731e-4fb2-a3f0-c9603835d998" textID="64"><![CDATA[3-I01 ~ déf. moteur pompe HP]]></standard>
+		<standard Guid="927cd22b-eb0f-4254-bd7f-2f4d3dc67622" textID="65"><![CDATA[3-I02 ~ déf. eau]]></standard>
+		<standard Guid="b573bb33-c89b-46de-b682-f3cf6cc477d5" textID="66"><![CDATA[3-I01 ~ déf. eau osmosée]]></standard>
+		<standard Guid="fbdce8ed-46f2-4e23-99b0-cbd52c040324" textID="67"><![CDATA[3-I01 ~ hors gel]]></standard>
+		<standard Guid="90a74a13-3c9a-48f1-97ff-ceb943b4e72b" textID="68"><![CDATA[3-I01 ~ micro switch regul HP]]></standard>
+		<standard Guid="d360f0f8-ebae-4ef4-a6b1-ef324a99e639" textID="69"><![CDATA[EV BP eau chaude ~ 1-Q01]]></standard>
+		<standard Guid="f55515df-7327-4c02-8f79-124c429080ea" textID="70"><![CDATA[EV BP eau chaude cire ~ 1-Q02]]></standard>
+		<standard Guid="55c5c3dc-c7af-4588-8456-9e40df640ff4" textID="71"><![CDATA[EV BP eau froide rincage ~ 1-Q03]]></standard>
+		<standard Guid="7c039d52-9ba6-450b-8d9f-104fa19e8fcb" textID="72"><![CDATA[EV BP eau osmosée ~ 1-Q04]]></standard>
+		<standard Guid="7488944f-697b-4f6e-a060-4981bb1b91e2" textID="73"><![CDATA[Vitesse variateur]]></standard>
+		<standard Guid="b1ace547-6233-42a5-966c-1c37cdfa6272" textID="74"><![CDATA[EV HP lavage ~ 2-Q01]]></standard>
+		<standard Guid="0bba2366-775f-4219-97e4-587fc5fdd382" textID="75"><![CDATA[EV HP canon mousse ~ 2-Q02]]></standard>
+		<standard Guid="10ba6bab-cf41-4139-8a70-41601e27cd06" textID="76"><![CDATA[EV HP prelavage ~ 2-Q03]]></standard>
+		<standard Guid="88d269a4-0791-4071-b8f3-c63df64716bb" textID="77"><![CDATA[EV HP polish ~ 2-Q04]]></standard>
+		<standard Guid="7257e303-5922-4a2e-a4a1-b84d095ed0af" textID="78"><![CDATA[EV BP brosse ~ 2-Q05]]></standard>
+		<standard Guid="05d2e3eb-41d3-483f-9203-979683b21337" textID="79"><![CDATA[EV air prelavage ~ 2-Q06]]></standard>
+		<standard Guid="aaf3b3e4-44e2-42e3-a526-7ecf6e2af6ab" textID="80"><![CDATA[EV air polish ~ 2-Q07]]></standard>
+		<standard Guid="a57dc184-ed00-413c-a25f-d66f72f4911e" textID="81"><![CDATA[EV BP jante ~ 2-Q08]]></standard>
+		<standard Guid="0ad517a0-7f48-4505-9fc1-e3ed60ac0a39" textID="82"><![CDATA[Pompe doseuse jante ~ 3-Q01]]></standard>
+		<standard Guid="5ca5a2c0-55fa-4131-bc78-cc8349a3ac11" textID="83"><![CDATA[Pompe doseuse prelavage ~ 3-Q02]]></standard>
+		<standard Guid="8f10288e-fe73-4d57-9b9f-0a3ccc314404" textID="84"><![CDATA[Pompe doseuse shampoing ~ 3-Q03]]></standard>
+		<standard Guid="1a736330-3798-4d9a-a70f-830786797932" textID="85"><![CDATA[Pompe doseuse brosse ~ 3-Q04]]></standard>
+		<standard Guid="04140967-5d52-4c98-8229-a485b1b62287" textID="86"><![CDATA[Pompe doseuse cire ~ 3-Q05]]></standard>
+		<standard Guid="97da055f-c3c7-4e3c-8ffa-1008f348829e" textID="87"><![CDATA[Start variateur ~ 3-Q06]]></standard>
+		<standard Guid="8f6e50de-1ecc-4f19-ab5d-8ab24a23d587" textID="88"><![CDATA[EV HP hors gel ~ 3-Q07]]></standard>
+		<standard Guid="f403bdff-540b-4413-b6a3-58c918132f40" textID="89"><![CDATA[Code panne vers pupitre ~ 3-Q08]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>
