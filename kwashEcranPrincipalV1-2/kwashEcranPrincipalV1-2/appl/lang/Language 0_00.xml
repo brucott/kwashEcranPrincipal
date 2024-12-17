@@ -99,6 +99,8 @@
 			<s ID="87"><![CDATA[Start variateur ~ 3-Q06]]></s>
 			<s ID="88"><![CDATA[EV HP hors gel ~ 3-Q07]]></s>
 			<s ID="89"><![CDATA[Code panne vers pupitre ~ 3-Q08]]></s>
+			<s ID="90"><![CDATA[auto/manu]]></s>
+			<s ID="91"><![CDATA[entrées / sorties]]></s>
 			<s ID="-10"><![CDATA[Delete User Account]]></s>
 			<s ID="-9"><![CDATA[Create User Account]]></s>
 			<s ID="-8"><![CDATA[Change group of user]]></s>

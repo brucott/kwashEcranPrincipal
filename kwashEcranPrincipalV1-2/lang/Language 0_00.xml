@@ -91,6 +91,8 @@
 		<standard Guid="97da055f-c3c7-4e3c-8ffa-1008f348829e" textID="87"><![CDATA[Start variateur ~ 3-Q06]]></standard>
 		<standard Guid="8f6e50de-1ecc-4f19-ab5d-8ab24a23d587" textID="88"><![CDATA[EV HP hors gel ~ 3-Q07]]></standard>
 		<standard Guid="f403bdff-540b-4413-b6a3-58c918132f40" textID="89"><![CDATA[Code panne vers pupitre ~ 3-Q08]]></standard>
+		<standard Guid="8e1ba9f0-082e-41d9-8afd-1b19841f37cc" textID="90"><![CDATA[auto/manu]]></standard>
+		<standard Guid="55a968b2-1b5f-422c-88ad-5bf4c92a4e1e" textID="91"><![CDATA[entrées / sorties]]></standard>
 		<error Guid="64a2c438-7654-47a4-b52e-94adb9d67aa8" textID="0"><![CDATA[Lavage jantes]]></error>
 		<error Guid="0425fbb3-bcac-4536-9e28-2052318543bc" textID="1"><![CDATA[Prélavage]]></error>
 		<error Guid="73021637-f83f-400e-a723-c6751f50b7f0" textID="2"><![CDATA[Canon à mousse]]></error>
